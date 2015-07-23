@@ -1,0 +1,58 @@
+#main_pic{
+	width: 350px;
+	height: 350px;
+	text-align:center;
+	overflow:auto;
+
+}
+
+.col-md-10{
+	border:2px solid black; 
+	padding:10px; 
+	margin-top:25px;
+}
+
+.col-md-11{
+	padding: 25px;
+	text-align:right;
+} 
+
+#list_pic{
+	overflow:auto;
+	height: 180px;
+	float: left;
+	padding-right: 1em;
+}
+
+#p_pic{
+float: right;
+height: 100px;
+}
+
+#rezept{
+text-align:justify;
+}
+
+.ingredients{
+text-align:justify;	
+}
+
+.jumbotron{
+padding:40px; 
+padding-top:80px;
+}
+
+h3{
+text-align:left;
+}
+
+#list_pic1{
+	overflow:auto;
+	height: 220px;
+	float: left;
+	padding-right: 1em;
+}
+
+#lab{
+	padding-bottom:10px;
+}
